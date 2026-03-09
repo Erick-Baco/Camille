@@ -356,7 +356,7 @@ body {
 .preloader {
     position: fixed;
     inset: 0;
-    z-index: 9999; /* Asegura que esté por encima de todo */
+    z-index: 9999; /* Asegura que esté por encima de */
     background: linear-gradient(135deg, var(--pink), var(--purple));
     display: flex;
     justify-content: center;

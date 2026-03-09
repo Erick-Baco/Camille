@@ -51,7 +51,7 @@ window.addEventListener('load', function() {
         // Añadimos la clase que levanta el telón hacia arriba
         preloader.classList.add('hidden');
 
-        // Después de que termine la animación (800ms), lo quitamos del todo
+        // Después de que termine la animación (800ms), lo quitamos del
         // para que no estorbe al hacer scroll o tocar botones
         setTimeout(() => {
             preloader.style.display = 'none';
